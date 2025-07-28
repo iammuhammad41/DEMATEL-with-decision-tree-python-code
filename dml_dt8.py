@@ -1,5 +1,3 @@
-# dematel_ml_enhanced_corrected.py
-
 import numpy as np
 import matplotlib.pyplot as plt
 import os
